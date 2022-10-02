@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elias
+- 👀 Yea, I'm using the template
+- 🌱 nothing to say about me
+- 💞️ Primarily looking for cool ideas
+- 📫 [hello@elias1731.de](hello@elias1731.de)
