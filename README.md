@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elias
-- 👀 Yea, I'm using the template
+- 👀 a.k.a. heyFordy
 - 🌱 nothing to say about me
 - 💞️ Primarily looking for cool ideas
-- 📫 [hello@elias1731.de](hello@elias1731.de)
+- 📫 [hello@heyfordy.de](hello@heyfordy.de)
