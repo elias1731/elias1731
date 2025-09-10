@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Elias
-- 👀 a.k.a. heyFordy
-- 🌱 nothing to say about me
+- *👋 Hi, I’m Elias*
+- 👀 a.k.a. **heyFordy**
 - 💞️ Primarily looking for cool ideas
-- 📫 [hello@heyfordy.de](hello@heyfordy.de)
+- 🍻 My Organization: [Bitte ein Git!](https://github.com/Bitte-ein-Git)
+- 📫 [hello@heyfordy.de](mailto:hello@heyfordy.de)
